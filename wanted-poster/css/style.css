@@ -83,7 +83,7 @@ h3 {
     margin: 0;
     letter-spacing: .5rem; .25rem;
     color:black;
-    text-shadow: 0;
+    text-shadow: none;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     font-weight:normal;
