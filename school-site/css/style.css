@@ -179,7 +179,7 @@ ol {
 }
 
 .long-list a:hover {
-    list-style-type: upper-alpha;
+    text-transform: uppercase;
 }
 /* Navigation Menu */
 
