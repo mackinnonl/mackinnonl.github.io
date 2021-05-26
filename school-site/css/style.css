@@ -148,8 +148,8 @@ a {
 a:link, color:#33658A
 a:visited {color:#33658A}
 
-a:focus, text-decoration:none;
-a:hover {text-decoration:none;}
+a:focus, text-decoration: none;
+a:hover {text-decoration: none;}
 /* List Styling */
 
 
@@ -159,6 +159,11 @@ ul {
     letter-spacing: 0.031rem;
     word-spacing: 0.125rem;
     text-indent: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: square;
 }
 
 ol {
@@ -166,9 +171,16 @@ ol {
     letter-spacing: 0.031rem;
     word-spacing: 0.125rem;
     text-indent: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: lower-alpha;
 }
 
-.long-list a:hover {}
+.long-list a:hover {
+    list-style-type: upper-alpha;
+}
 /* Navigation Menu */
 
 
