@@ -112,31 +112,61 @@ h2 {
     font-size: 1.5rem;
 }
 
-h2 + p {}
+h2 + p {
+    font-size:0.75rem;
+    letter-spacing: 0.031rem;
+    word-spacing: 0.125rem;
+    text-indent: 1.5rem;
+}
 
-p {}
+p {
+    font-size:0.75rem;
+    letter-spacing: 0.031rem;
+    word-spacing: 0.125rem;
+    text-indent: 1.5rem;
+}
 
-li {}
+li {
+    font-size:0.75rem;
+    letter-spacing: 0.031rem;
+    word-spacing: 0.125rem;
+    text-indent: 1.5rem;
+}
 
-figcaption {}
+figcaption {
+    font-size:0.75rem;
+    margin-bottom:2rem;
+}
 /* Link Styling */
 
 
 
-a {}
+a {
+    outline-style: none;
+}
 
-a:link,
-a:visited {}
+a:link, color:#33658A
+a:visited {color:#33658A}
 
-a:focus,
-a:hover {}
+a:focus, text-decoration:none;
+a:hover {text-decoration:none;}
 /* List Styling */
 
 
 
-ul {}
+ul {
+    font-size:0.75rem;
+    letter-spacing: 0.031rem;
+    word-spacing: 0.125rem;
+    text-indent: 1.5rem;
+}
 
-ol {}
+ol {
+    font-size:0.75rem;
+    letter-spacing: 0.031rem;
+    word-spacing: 0.125rem;
+    text-indent: 1.5rem;
+}
 
 .long-list a:hover {}
 /* Navigation Menu */
