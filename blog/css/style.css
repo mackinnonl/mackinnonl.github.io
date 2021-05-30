@@ -114,7 +114,7 @@ header, footer {
         src:url(..fonts/lato-regular.ttf) format('truetype');
         font-weight:normal;
         font-style:normal;
-        
+}
         @font-face {
     font-family: 'robotoslab-regular';
         src:url(..fonts/robotoslab-regular.ttf) format('truetype');
