@@ -48,4 +48,17 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+{
+    box-sizing: border-box;
+}
 
+html {
+    font-size:16px; 
+}
+
+body {
+    margin: 1.5rem auto;
+    width:90%;
+    min-width:56.25rem;
+}
+    
