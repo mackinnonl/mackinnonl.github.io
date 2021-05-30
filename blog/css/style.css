@@ -125,6 +125,12 @@ header {
     font-family: 'lato-regular', sans-serif;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
 h1 {
     font-family: 'robotoslab-regular', serif;
     letter-spacing: 0.13rem;
