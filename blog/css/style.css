@@ -130,7 +130,7 @@ header {
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
 }
-
+<div class="container">
 h1 {
     font-family: 'robotoslab-regular', serif;
     letter-spacing: 0.13rem;
@@ -197,11 +197,12 @@ nav a:active {
     color:#FFF;
     background-color: #000;
 }
-
+</div>
+<div class="container">
 h3 {
     float: right;
     text-align: right;
-}
+} </div>
 /* Footer Styles */
 
 
