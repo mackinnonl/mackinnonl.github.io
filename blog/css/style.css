@@ -130,7 +130,7 @@ h1 {
     letter-spacing: 0.13rem;
     font-size: 1rem;
     margin: 1.125rem;
-    text-align: center;
+    text-align: left;
     white-space: pre-wrap;
     
     
@@ -139,6 +139,7 @@ h1 {
 h2 {
     font-family: 'robotoslab-regular', serif;
     font-size: 1.5rem;
+    text-align: left;
 }
  
 p {
@@ -193,11 +194,12 @@ nav a:active {
 
 h3 {
     float: right;
+    text-align: right;
 }
 /* Footer Styles */
 
 
 
 footer {
-    text-align: center;
+    
 }
