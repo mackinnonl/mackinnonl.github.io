@@ -190,6 +190,10 @@ nav a:active {
     color:#FFF;
     background-color: #000;
 }
+
+h3 {
+    float: right;
+}
 /* Footer Styles */
 
 
