@@ -128,9 +128,9 @@ header {
 h1 {
     font-family: 'robotoslab-regular', serif;
     letter-spacing: 0.13rem;
-    font-size: 1rem;
+    font-size: 2rem;
     margin: 1.125rem;
-    text-align: left;
+    text-align: center;
     white-space: pre-wrap;
     
     
