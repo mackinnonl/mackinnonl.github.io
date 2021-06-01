@@ -89,12 +89,10 @@ figcaption {
     margin:.375rem 0;
 }
 
-.long-list {
-    margin-top:0;
-}
+
 
 nav {
-    float: left;
+    float: center;
     width:11.25rem;
 }
 
@@ -134,7 +132,9 @@ html {
 
 h1 {
     text-align: center;
-    
+    letter-spacing: normal;
+    word-spacing: normal;
+    color:aqua;
 }
 p {}
     .columns {
