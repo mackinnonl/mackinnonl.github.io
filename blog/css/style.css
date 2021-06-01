@@ -129,11 +129,16 @@ html {
     font-family: 'lato-regular', sans-serif;
 }
 
-
+.box {
+            display: flex;
+            justify-content: space-between;
+          }
+      
 h1 {
     text-align: center;
     letter-spacing: normal;
     word-spacing: normal;
+    
      
 
 }
