@@ -156,4 +156,15 @@ nav {
     word-spacing: inherit;
 }
 
+nav a {
+    text-underline-position: none;
+    display: inline-block;
+    width: 50%;
+    line-height: 2;
+    text-align: center;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+    border-style: none;
+    color: #33658A;
+}
 footer {}
