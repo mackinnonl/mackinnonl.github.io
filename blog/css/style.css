@@ -59,15 +59,13 @@ body {
     min-width:56.25rem;
 }
 
-.columns {
-    column-count: 2;
-}
+
 /* Layout */
 
 main {
     overflow:auto;
     min-width:45rem;
-    
+  
 }
 
 section {
@@ -137,6 +135,10 @@ html {
 h1 {
     text-align: center;
     
+}
+p {}
+    .columns {
+    column-count: 2;
 }
 
 h2 {}
