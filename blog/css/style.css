@@ -133,6 +133,7 @@ html {
       
 h1 {
     text-align: center;
+    font-size: 3rem;
     letter-spacing: normal;
     word-spacing: normal;
     display:flex;
