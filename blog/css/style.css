@@ -108,7 +108,7 @@ section, aside, nav, footer {
 /* header and footer */
 
 header, footer {
-  border-top: .125rem solid #33658A;
+  
   border-bottom: .125rem solid #33658A;
 }
 @font-face {
