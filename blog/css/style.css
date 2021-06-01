@@ -134,7 +134,7 @@ h1 {
     text-align: center;
     letter-spacing: normal;
     word-spacing: normal;
-    text-decoration-color:teal;
+     
 
 }
 p {}
@@ -152,6 +152,8 @@ a {}
 
 nav {
      border-bottom: .125rem solid #33658A;
+    text-align: center;
+    word-spacing: inherit;
 }
 
 footer {}
