@@ -129,9 +129,7 @@ header {
   display: flex;
 }
 
-.item {
-  flex: 1;
-}
+
 
 h1 {
     font-family: 'robotoslab-regular', serif;
