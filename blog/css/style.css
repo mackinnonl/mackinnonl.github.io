@@ -166,5 +166,6 @@ nav a {
     margin-bottom: 1.5rem;
     border-style: none;
     color: #33658A;
+    align-content: center;
 }
 footer {}
