@@ -125,10 +125,7 @@ header {
     font-family: 'lato-regular', sans-serif;
 }
 
-.container {
-  column-count: 2;
-}
-
+grid-template-column:2;
 
 h1 {
     font-family: 'robotoslab-regular', serif;
@@ -144,10 +141,7 @@ h1 {
   
 }
 
-.rotated {
-  transform: rotate(45deg); /* Equal to rotateZ(45deg) */   
-    
-}
+
 
 nav {
     border-bottom: .125rem solid #33658A;
