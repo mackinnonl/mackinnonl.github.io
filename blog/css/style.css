@@ -59,6 +59,9 @@ body {
     min-width:56.25rem;
 }
 
+.columns {
+    column-count: 2;
+}
 /* Layout */
 
 main {
@@ -130,9 +133,6 @@ html {
     font-family: 'lato-regular', sans-serif;
 }
 
-div {
-  column-count: 2;
-}
 
 h1 {
     text-align: center;
@@ -142,7 +142,7 @@ h1 {
 h2 {}
 
 h3 {
-    column-span: all;
+   
 }
 
 a {}
