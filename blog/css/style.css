@@ -150,6 +150,8 @@ h3 {
 
 a {}
 
-nav {}
+nav {
+     border-bottom: .125rem solid #33658A;
+}
 
 footer {}
