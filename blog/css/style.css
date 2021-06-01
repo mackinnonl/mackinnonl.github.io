@@ -125,12 +125,11 @@ header {
     font-family: 'lato-regular', sans-serif;
 }
 
-.container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
-}
-<div class="container">
+<div class="flex-container">
+  <div>1</div>
+  <div>2</div>
+</div>
+
 h1 {
     font-family: 'robotoslab-regular', serif;
     letter-spacing: 0.13rem;
@@ -155,54 +154,9 @@ p {
     text-indent: 1.5rem;
 }
 
-figcaption {
-    font-size:0.75rem;
-    margin-bottom:2rem;
-}
-a {
-    text-decoration: none;
-}
-
-a:link, color:#33658A
-a:visited {color:#33658A}
-
-a:focus, text-decoration: none;
-a:hover {text-decoration: none;}
-nav {
-    padding-left: 0;
-    margin-top: 0.25;
-}
-
-nav a {
-    text-underline-position: none;
-    display: inline-block;
-    width: 100%;
-    line-height: 3;
-    text-align: center;
-    font-size: 1.125rem;
-    margin-bottom: 1.5rem;
-    border-style: solid;
-    border-width: 0.063rem;
-    color: #77442A;
+h3 {
     
 }
-
-nav a:focus,
-nav a:hover {
-    color: #FFF;
-background-color: #33658A;
-}
-
-nav a:active {
-    color:#FFF;
-    background-color: #000;
-}
-</div>
-<div class="container">
-h3 {
-    float: right;
-    text-align: right;
-} </div>
 /* Footer Styles */
 
 
