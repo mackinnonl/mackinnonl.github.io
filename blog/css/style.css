@@ -105,7 +105,7 @@ section, aside, nav, footer {
 /* header and footer */
 
 header {
-  border-top: .125rem solid #33658A;
+  border-bottom:.125rem solid #33658A;
   
 }
 
@@ -125,10 +125,13 @@ header {
     font-family: 'lato-regular', sans-serif;
 }
 
-<div class="flex-container">
-  <div>1</div>
-  <div>2</div>
-</div>
+.container {
+  display: flex;
+}
+
+.item {
+  flex: 1;
+}
 
 h1 {
     font-family: 'robotoslab-regular', serif;
@@ -162,5 +165,5 @@ h3 {
 
 
 footer {
-    
+  
 }
