@@ -140,7 +140,15 @@ h1 {
     margin: 1.125rem;
     text-align: center;
     text-decoration-style: solid;
-    
+}
+ div {
+  width: 80px;
+  height: 80px;
+  
+}
+
+.rotated {
+  transform: rotate(45deg); /* Equal to rotateZ(45deg) */   
     
 }
 
