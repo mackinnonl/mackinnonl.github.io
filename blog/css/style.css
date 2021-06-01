@@ -52,11 +52,22 @@
     box-sizing: border-box;
 }
 
-@font-face {}
-@font-face {}
+@font-face {
+        font-family: 'lato-regular';
+        src: url(..fonts/lato-regular.ttf) format('truetype');
+        font-weight:normal;
+        font-style:normal;
+}
+@font-face {
+        font-family: 'robotoslab-regular';
+        src: url(..fonts/robotoslab-regular.ttf) format('truetype');
+        font-weight:normal;
+        font-style:normal;
+}
 
 html {
-    font-size:16px; 
+    font-size:16px;
+    font-family: 'lato-regular', sans-serif;
 }
 
 div {
