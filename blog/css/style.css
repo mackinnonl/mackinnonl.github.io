@@ -108,9 +108,10 @@ section, aside, nav, footer {
 
 /* header and footer */
 
-header, footer {
+header {
   text-align: center;
   border-bottom: .125rem solid #33658A;
+
 }
 @font-face {
         font-family: 'lato-regular';
