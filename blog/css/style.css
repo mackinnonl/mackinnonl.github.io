@@ -126,9 +126,8 @@ header {
 }
 
 .container {
-  display: flex;
+  column-count: 2;
 }
-
 
 
 h1 {
