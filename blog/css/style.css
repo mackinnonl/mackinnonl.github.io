@@ -144,6 +144,14 @@ h1 {
     
 }
 
+nav {
+    border-bottom: .125rem solid #33658A;
+    color: black;
+    font-size: 1rem;
+    text-align: center;
+    
+}
+
 h2 {
     font-family: 'robotoslab-regular', serif;
     font-size: 1.5rem;
