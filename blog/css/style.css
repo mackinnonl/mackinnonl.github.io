@@ -129,28 +129,26 @@ html {
     font-family: 'lato-regular', sans-serif;
 }
 
-.box {
-            display: flex;
-            justify-content: space-between;
-          }
+
       
 h1 {
     text-align: center;
     letter-spacing: normal;
     word-spacing: normal;
-    
+    display:flex;
      
 
 }
 p {}
-    .columns {
-    column-count: 2;
+    
 }
 
-h2 {}
+h2 {
+    display: flex;
+}
 
 h3 {
-   
+   display: flex;
 }
 
 a {}
@@ -158,7 +156,8 @@ a {}
 nav {
      border-bottom: .125rem solid #33658A;
     text-align: center;
-    word-spacing: inherit;
+    word-spacing: normal;
+    display: inline-block;
 }
 
 nav a {
@@ -177,5 +176,7 @@ nav a {
 }
 nav a:hover {
     text-decoration: line-through;
+    text-decoration: overline;
+    
 }
 footer {}
