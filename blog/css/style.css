@@ -138,25 +138,8 @@ h1 {
     text-align: center;
     letter-spacing: normal;
     word-spacing: normal;
-    
-     
-
 }
-p {}
-    
-}
-
-h2 {
-    display: flex;
-}
-
-h3 {
-   display: flex;
-}
-
-a {}
-
-nav {
+  nav {
      border-bottom: .125rem solid #33658A;
     text-align: center;
     word-spacing: normal;
@@ -178,6 +161,24 @@ nav a {
     text-decoration: none;
 
 }
+ 
+
+}
+p {}
+    
+}
+
+h2 {
+    display: flex;
+}
+
+h3 {
+   display: flex;
+}
+
+a {}
+
+
 nav a:hover {
     text-decoration: line-through;
     
